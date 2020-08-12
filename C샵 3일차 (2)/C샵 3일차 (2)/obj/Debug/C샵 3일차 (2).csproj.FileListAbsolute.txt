@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C샵 3일차 (2)\C샵 3일차 (2)\bin\Debug\C샵 3일차 (2).exe.config
+C:\Users\user\source\repos\C샵 3일차 (2)\C샵 3일차 (2)\bin\Debug\C샵 3일차 (2).exe
+C:\Users\user\source\repos\C샵 3일차 (2)\C샵 3일차 (2)\bin\Debug\C샵 3일차 (2).pdb
+C:\Users\user\source\repos\C샵 3일차 (2)\C샵 3일차 (2)\obj\Debug\C샵 3일차 (2).csprojAssemblyReference.cache
+C:\Users\user\source\repos\C샵 3일차 (2)\C샵 3일차 (2)\obj\Debug\C샵 3일차 (2).csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C샵 3일차 (2)\C샵 3일차 (2)\obj\Debug\C샵 3일차 (2).exe
+C:\Users\user\source\repos\C샵 3일차 (2)\C샵 3일차 (2)\obj\Debug\C샵 3일차 (2).pdb
