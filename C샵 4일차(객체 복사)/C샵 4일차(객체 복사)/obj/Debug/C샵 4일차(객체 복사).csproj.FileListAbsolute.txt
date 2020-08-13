@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C샵 4일차(객체 복사)\C샵 4일차(객체 복사)\bin\Debug\C샵 4일차(객체 복사).exe.config
+C:\Users\user\source\repos\C샵 4일차(객체 복사)\C샵 4일차(객체 복사)\bin\Debug\C샵 4일차(객체 복사).exe
+C:\Users\user\source\repos\C샵 4일차(객체 복사)\C샵 4일차(객체 복사)\bin\Debug\C샵 4일차(객체 복사).pdb
+C:\Users\user\source\repos\C샵 4일차(객체 복사)\C샵 4일차(객체 복사)\obj\Debug\C샵 4일차(객체 복사).csprojAssemblyReference.cache
+C:\Users\user\source\repos\C샵 4일차(객체 복사)\C샵 4일차(객체 복사)\obj\Debug\C샵 4일차(객체 복사).csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C샵 4일차(객체 복사)\C샵 4일차(객체 복사)\obj\Debug\C샵 4일차(객체 복사).exe
+C:\Users\user\source\repos\C샵 4일차(객체 복사)\C샵 4일차(객체 복사)\obj\Debug\C샵 4일차(객체 복사).pdb

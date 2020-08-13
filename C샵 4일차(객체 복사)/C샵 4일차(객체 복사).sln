@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C샵 4일차(객체 복사)", "C샵 4일차(객체 복사)\C샵 4일차(객체 복사).csproj", "{FF2374E7-4392-46E6-B6BD-0FB2E8E2CE83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF2374E7-4392-46E6-B6BD-0FB2E8E2CE83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF2374E7-4392-46E6-B6BD-0FB2E8E2CE83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF2374E7-4392-46E6-B6BD-0FB2E8E2CE83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF2374E7-4392-46E6-B6BD-0FB2E8E2CE83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B98CF567-9171-4347-91B1-F8DC60891BF9}
+	EndGlobalSection
+EndGlobal
