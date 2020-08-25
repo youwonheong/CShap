@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C샵 자동 구현 프로퍼티\C샵 자동 구현 프로퍼티\bin\Debug\C샵 자동 구현 프로퍼티.exe.config
+C:\Users\user\source\repos\C샵 자동 구현 프로퍼티\C샵 자동 구현 프로퍼티\bin\Debug\C샵 자동 구현 프로퍼티.exe
+C:\Users\user\source\repos\C샵 자동 구현 프로퍼티\C샵 자동 구현 프로퍼티\bin\Debug\C샵 자동 구현 프로퍼티.pdb
+C:\Users\user\source\repos\C샵 자동 구현 프로퍼티\C샵 자동 구현 프로퍼티\obj\Debug\C샵 자동 구현 프로퍼티.csprojAssemblyReference.cache
+C:\Users\user\source\repos\C샵 자동 구현 프로퍼티\C샵 자동 구현 프로퍼티\obj\Debug\C샵 자동 구현 프로퍼티.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C샵 자동 구현 프로퍼티\C샵 자동 구현 프로퍼티\obj\Debug\C샵 자동 구현 프로퍼티.exe
+C:\Users\user\source\repos\C샵 자동 구현 프로퍼티\C샵 자동 구현 프로퍼티\obj\Debug\C샵 자동 구현 프로퍼티.pdb
