@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C샵 2차원 배열\C샵 2차원 배열\bin\Debug\C샵 2차원 배열.exe.config
+C:\Users\user\source\repos\C샵 2차원 배열\C샵 2차원 배열\bin\Debug\C샵 2차원 배열.exe
+C:\Users\user\source\repos\C샵 2차원 배열\C샵 2차원 배열\bin\Debug\C샵 2차원 배열.pdb
+C:\Users\user\source\repos\C샵 2차원 배열\C샵 2차원 배열\obj\Debug\C샵 2차원 배열.csprojAssemblyReference.cache
+C:\Users\user\source\repos\C샵 2차원 배열\C샵 2차원 배열\obj\Debug\C샵 2차원 배열.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C샵 2차원 배열\C샵 2차원 배열\obj\Debug\C샵 2차원 배열.exe
+C:\Users\user\source\repos\C샵 2차원 배열\C샵 2차원 배열\obj\Debug\C샵 2차원 배열.pdb

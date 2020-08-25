@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C샵 배열초기화\C샵 배열초기화\bin\Debug\C샵 배열초기화.exe.config
+C:\Users\user\source\repos\C샵 배열초기화\C샵 배열초기화\bin\Debug\C샵 배열초기화.exe
+C:\Users\user\source\repos\C샵 배열초기화\C샵 배열초기화\bin\Debug\C샵 배열초기화.pdb
+C:\Users\user\source\repos\C샵 배열초기화\C샵 배열초기화\obj\Debug\C샵 배열초기화.csprojAssemblyReference.cache
+C:\Users\user\source\repos\C샵 배열초기화\C샵 배열초기화\obj\Debug\C샵 배열초기화.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C샵 배열초기화\C샵 배열초기화\obj\Debug\C샵 배열초기화.exe
+C:\Users\user\source\repos\C샵 배열초기화\C샵 배열초기화\obj\Debug\C샵 배열초기화.pdb

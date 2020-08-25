@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C샵 System.Array\C샵 System.Array\obj\Debug\C샵 System.Array.csprojAssemblyReference.cache
+C:\Users\user\source\repos\C샵 System.Array\C샵 System.Array\obj\Debug\C샵 System.Array.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C샵 System.Array\C샵 System.Array\bin\Debug\C샵 System.Array.exe.config
+C:\Users\user\source\repos\C샵 System.Array\C샵 System.Array\bin\Debug\C샵 System.Array.exe
+C:\Users\user\source\repos\C샵 System.Array\C샵 System.Array\bin\Debug\C샵 System.Array.pdb
+C:\Users\user\source\repos\C샵 System.Array\C샵 System.Array\obj\Debug\C샵 System.Array.exe
+C:\Users\user\source\repos\C샵 System.Array\C샵 System.Array\obj\Debug\C샵 System.Array.pdb
