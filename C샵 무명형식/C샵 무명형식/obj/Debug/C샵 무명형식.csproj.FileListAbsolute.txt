@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C샵 무명형식\C샵 무명형식\bin\Debug\C샵 무명형식.exe.config
+C:\Users\user\source\repos\C샵 무명형식\C샵 무명형식\bin\Debug\C샵 무명형식.exe
+C:\Users\user\source\repos\C샵 무명형식\C샵 무명형식\bin\Debug\C샵 무명형식.pdb
+C:\Users\user\source\repos\C샵 무명형식\C샵 무명형식\obj\Debug\C샵 무명형식.csprojAssemblyReference.cache
+C:\Users\user\source\repos\C샵 무명형식\C샵 무명형식\obj\Debug\C샵 무명형식.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C샵 무명형식\C샵 무명형식\obj\Debug\C샵 무명형식.exe
+C:\Users\user\source\repos\C샵 무명형식\C샵 무명형식\obj\Debug\C샵 무명형식.pdb

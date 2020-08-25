@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C샵 프로퍼티 인터페이스\C샵 프로퍼티 인터페이스\bin\Debug\C샵 프로퍼티 인터페이스.exe.config
+C:\Users\user\source\repos\C샵 프로퍼티 인터페이스\C샵 프로퍼티 인터페이스\bin\Debug\C샵 프로퍼티 인터페이스.exe
+C:\Users\user\source\repos\C샵 프로퍼티 인터페이스\C샵 프로퍼티 인터페이스\bin\Debug\C샵 프로퍼티 인터페이스.pdb
+C:\Users\user\source\repos\C샵 프로퍼티 인터페이스\C샵 프로퍼티 인터페이스\obj\Debug\C샵 프로퍼티 인터페이스.csprojAssemblyReference.cache
+C:\Users\user\source\repos\C샵 프로퍼티 인터페이스\C샵 프로퍼티 인터페이스\obj\Debug\C샵 프로퍼티 인터페이스.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C샵 프로퍼티 인터페이스\C샵 프로퍼티 인터페이스\obj\Debug\C샵 프로퍼티 인터페이스.exe
+C:\Users\user\source\repos\C샵 프로퍼티 인터페이스\C샵 프로퍼티 인터페이스\obj\Debug\C샵 프로퍼티 인터페이스.pdb
