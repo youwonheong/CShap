@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C샵 일반화 프로그래밍(1)\C샵 일반화 프로그래밍(1)\bin\Debug\C샵 일반화 프로그래밍(1).exe.config
+C:\Users\user\source\repos\C샵 일반화 프로그래밍(1)\C샵 일반화 프로그래밍(1)\bin\Debug\C샵 일반화 프로그래밍(1).exe
+C:\Users\user\source\repos\C샵 일반화 프로그래밍(1)\C샵 일반화 프로그래밍(1)\bin\Debug\C샵 일반화 프로그래밍(1).pdb
+C:\Users\user\source\repos\C샵 일반화 프로그래밍(1)\C샵 일반화 프로그래밍(1)\obj\Debug\C샵 일반화 프로그래밍(1).csprojAssemblyReference.cache
+C:\Users\user\source\repos\C샵 일반화 프로그래밍(1)\C샵 일반화 프로그래밍(1)\obj\Debug\C샵 일반화 프로그래밍(1).csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C샵 일반화 프로그래밍(1)\C샵 일반화 프로그래밍(1)\obj\Debug\C샵 일반화 프로그래밍(1).exe
+C:\Users\user\source\repos\C샵 일반화 프로그래밍(1)\C샵 일반화 프로그래밍(1)\obj\Debug\C샵 일반화 프로그래밍(1).pdb
