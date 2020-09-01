@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C샵 InnumerGeneric\C샵 InnumerGeneric\obj\Debug\C샵 InnumerGeneric.csprojAssemblyReference.cache
+C:\Users\user\source\repos\C샵 InnumerGeneric\C샵 InnumerGeneric\obj\Debug\C샵 InnumerGeneric.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C샵 InnumerGeneric\C샵 InnumerGeneric\bin\Debug\C샵 InnumerGeneric.exe.config
+C:\Users\user\source\repos\C샵 InnumerGeneric\C샵 InnumerGeneric\bin\Debug\C샵 InnumerGeneric.exe
+C:\Users\user\source\repos\C샵 InnumerGeneric\C샵 InnumerGeneric\bin\Debug\C샵 InnumerGeneric.pdb
+C:\Users\user\source\repos\C샵 InnumerGeneric\C샵 InnumerGeneric\obj\Debug\C샵 InnumerGeneric.exe
+C:\Users\user\source\repos\C샵 InnumerGeneric\C샵 InnumerGeneric\obj\Debug\C샵 InnumerGeneric.pdb

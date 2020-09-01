@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C샵 일반화 컬렉션\C샵 일반화 컬렉션\bin\Debug\C샵 일반화 컬렉션.exe.config
+C:\Users\user\source\repos\C샵 일반화 컬렉션\C샵 일반화 컬렉션\bin\Debug\C샵 일반화 컬렉션.exe
+C:\Users\user\source\repos\C샵 일반화 컬렉션\C샵 일반화 컬렉션\bin\Debug\C샵 일반화 컬렉션.pdb
+C:\Users\user\source\repos\C샵 일반화 컬렉션\C샵 일반화 컬렉션\obj\Debug\C샵 일반화 컬렉션.csprojAssemblyReference.cache
+C:\Users\user\source\repos\C샵 일반화 컬렉션\C샵 일반화 컬렉션\obj\Debug\C샵 일반화 컬렉션.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C샵 일반화 컬렉션\C샵 일반화 컬렉션\obj\Debug\C샵 일반화 컬렉션.exe
+C:\Users\user\source\repos\C샵 일반화 컬렉션\C샵 일반화 컬렉션\obj\Debug\C샵 일반화 컬렉션.pdb
