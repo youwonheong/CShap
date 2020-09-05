@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C샵 finally\C샵 finally\bin\Debug\C샵 finally.exe.config
+C:\Users\user\source\repos\C샵 finally\C샵 finally\bin\Debug\C샵 finally.exe
+C:\Users\user\source\repos\C샵 finally\C샵 finally\bin\Debug\C샵 finally.pdb
+C:\Users\user\source\repos\C샵 finally\C샵 finally\obj\Debug\C샵 finally.csprojAssemblyReference.cache
+C:\Users\user\source\repos\C샵 finally\C샵 finally\obj\Debug\C샵 finally.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C샵 finally\C샵 finally\obj\Debug\C샵 finally.exe
+C:\Users\user\source\repos\C샵 finally\C샵 finally\obj\Debug\C샵 finally.pdb

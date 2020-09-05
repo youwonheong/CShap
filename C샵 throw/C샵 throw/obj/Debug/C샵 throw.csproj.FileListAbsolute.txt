@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C샵 throw\C샵 throw\bin\Debug\C샵 throw.exe.config
+C:\Users\user\source\repos\C샵 throw\C샵 throw\bin\Debug\C샵 throw.exe
+C:\Users\user\source\repos\C샵 throw\C샵 throw\bin\Debug\C샵 throw.pdb
+C:\Users\user\source\repos\C샵 throw\C샵 throw\obj\Debug\C샵 throw.csprojAssemblyReference.cache
+C:\Users\user\source\repos\C샵 throw\C샵 throw\obj\Debug\C샵 throw.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C샵 throw\C샵 throw\obj\Debug\C샵 throw.exe
+C:\Users\user\source\repos\C샵 throw\C샵 throw\obj\Debug\C샵 throw.pdb
