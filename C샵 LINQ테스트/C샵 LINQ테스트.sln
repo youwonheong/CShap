@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C샵 LINQ테스트", "C샵 LINQ테스트\C샵 LINQ테스트.csproj", "{AD9177FB-0272-4F59-90C2-D42322006C12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD9177FB-0272-4F59-90C2-D42322006C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD9177FB-0272-4F59-90C2-D42322006C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD9177FB-0272-4F59-90C2-D42322006C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD9177FB-0272-4F59-90C2-D42322006C12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4814020-74BF-4E26-A235-8B5C4F057F99}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C샵 LINQ테스트\C샵 LINQ테스트\bin\Debug\C샵 LINQ테스트.exe.config
+C:\Users\user\source\repos\C샵 LINQ테스트\C샵 LINQ테스트\bin\Debug\C샵 LINQ테스트.exe
+C:\Users\user\source\repos\C샵 LINQ테스트\C샵 LINQ테스트\bin\Debug\C샵 LINQ테스트.pdb
+C:\Users\user\source\repos\C샵 LINQ테스트\C샵 LINQ테스트\obj\Debug\C샵 LINQ테스트.csprojAssemblyReference.cache
+C:\Users\user\source\repos\C샵 LINQ테스트\C샵 LINQ테스트\obj\Debug\C샵 LINQ테스트.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C샵 LINQ테스트\C샵 LINQ테스트\obj\Debug\C샵 LINQ테스트.exe
+C:\Users\user\source\repos\C샵 LINQ테스트\C샵 LINQ테스트\obj\Debug\C샵 LINQ테스트.pdb

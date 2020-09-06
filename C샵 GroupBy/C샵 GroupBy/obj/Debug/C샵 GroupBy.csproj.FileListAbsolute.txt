@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C샵 GroupBy\C샵 GroupBy\bin\Debug\C샵 GroupBy.exe.config
+C:\Users\user\source\repos\C샵 GroupBy\C샵 GroupBy\bin\Debug\C샵 GroupBy.exe
+C:\Users\user\source\repos\C샵 GroupBy\C샵 GroupBy\bin\Debug\C샵 GroupBy.pdb
+C:\Users\user\source\repos\C샵 GroupBy\C샵 GroupBy\obj\Debug\C샵 GroupBy.csprojAssemblyReference.cache
+C:\Users\user\source\repos\C샵 GroupBy\C샵 GroupBy\obj\Debug\C샵 GroupBy.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C샵 GroupBy\C샵 GroupBy\obj\Debug\C샵 GroupBy.exe
+C:\Users\user\source\repos\C샵 GroupBy\C샵 GroupBy\obj\Debug\C샵 GroupBy.pdb

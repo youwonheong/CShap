@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C샵 심플링크\C샵 심플링크\bin\Debug\C샵 심플링크.exe.config
+C:\Users\user\source\repos\C샵 심플링크\C샵 심플링크\bin\Debug\C샵 심플링크.exe
+C:\Users\user\source\repos\C샵 심플링크\C샵 심플링크\bin\Debug\C샵 심플링크.pdb
+C:\Users\user\source\repos\C샵 심플링크\C샵 심플링크\obj\Debug\C샵 심플링크.csprojAssemblyReference.cache
+C:\Users\user\source\repos\C샵 심플링크\C샵 심플링크\obj\Debug\C샵 심플링크.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C샵 심플링크\C샵 심플링크\obj\Debug\C샵 심플링크.exe
+C:\Users\user\source\repos\C샵 심플링크\C샵 심플링크\obj\Debug\C샵 심플링크.pdb
