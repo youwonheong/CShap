@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C샵 조인\C샵 조인\obj\Debug\C샵 조인.csprojAssemblyReference.cache
+C:\Users\user\source\repos\C샵 조인\C샵 조인\obj\Debug\C샵 조인.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C샵 조인\C샵 조인\bin\Debug\C샵 조인.exe.config
+C:\Users\user\source\repos\C샵 조인\C샵 조인\bin\Debug\C샵 조인.exe
+C:\Users\user\source\repos\C샵 조인\C샵 조인\bin\Debug\C샵 조인.pdb
+C:\Users\user\source\repos\C샵 조인\C샵 조인\obj\Debug\C샵 조인.exe
+C:\Users\user\source\repos\C샵 조인\C샵 조인\obj\Debug\C샵 조인.pdb

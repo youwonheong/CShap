@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C샵 MinMaxAvg\C샵 MinMaxAvg\bin\Debug\C샵 MinMaxAvg.exe.config
+C:\Users\user\source\repos\C샵 MinMaxAvg\C샵 MinMaxAvg\bin\Debug\C샵 MinMaxAvg.exe
+C:\Users\user\source\repos\C샵 MinMaxAvg\C샵 MinMaxAvg\bin\Debug\C샵 MinMaxAvg.pdb
+C:\Users\user\source\repos\C샵 MinMaxAvg\C샵 MinMaxAvg\obj\Debug\C샵 MinMaxAvg.csprojAssemblyReference.cache
+C:\Users\user\source\repos\C샵 MinMaxAvg\C샵 MinMaxAvg\obj\Debug\C샵 MinMaxAvg.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C샵 MinMaxAvg\C샵 MinMaxAvg\obj\Debug\C샵 MinMaxAvg.exe
+C:\Users\user\source\repos\C샵 MinMaxAvg\C샵 MinMaxAvg\obj\Debug\C샵 MinMaxAvg.pdb
