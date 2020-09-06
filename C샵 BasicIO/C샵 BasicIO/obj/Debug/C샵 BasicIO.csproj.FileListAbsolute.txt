@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C샵 BasicIO\C샵 BasicIO\bin\Debug\C샵 BasicIO.exe.config
+C:\Users\user\source\repos\C샵 BasicIO\C샵 BasicIO\bin\Debug\C샵 BasicIO.exe
+C:\Users\user\source\repos\C샵 BasicIO\C샵 BasicIO\bin\Debug\C샵 BasicIO.pdb
+C:\Users\user\source\repos\C샵 BasicIO\C샵 BasicIO\obj\Debug\C샵 BasicIO.csprojAssemblyReference.cache
+C:\Users\user\source\repos\C샵 BasicIO\C샵 BasicIO\obj\Debug\C샵 BasicIO.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C샵 BasicIO\C샵 BasicIO\obj\Debug\C샵 BasicIO.exe
+C:\Users\user\source\repos\C샵 BasicIO\C샵 BasicIO\obj\Debug\C샵 BasicIO.pdb

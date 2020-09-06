@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C샵 MainApp\C샵 MainApp\bin\Debug\C샵 MainApp.exe.config
+C:\Users\user\source\repos\C샵 MainApp\C샵 MainApp\bin\Debug\C샵 MainApp.exe
+C:\Users\user\source\repos\C샵 MainApp\C샵 MainApp\bin\Debug\C샵 MainApp.pdb
+C:\Users\user\source\repos\C샵 MainApp\C샵 MainApp\obj\Debug\C샵 MainApp.csprojAssemblyReference.cache
+C:\Users\user\source\repos\C샵 MainApp\C샵 MainApp\obj\Debug\C샵 MainApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C샵 MainApp\C샵 MainApp\obj\Debug\C샵 MainApp.exe
+C:\Users\user\source\repos\C샵 MainApp\C샵 MainApp\obj\Debug\C샵 MainApp.pdb
