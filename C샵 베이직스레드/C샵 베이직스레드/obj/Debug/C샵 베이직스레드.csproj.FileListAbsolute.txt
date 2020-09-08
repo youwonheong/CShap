@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C샵 베이직스레드\C샵 베이직스레드\bin\Debug\C샵 베이직스레드.exe.config
+C:\Users\user\source\repos\C샵 베이직스레드\C샵 베이직스레드\bin\Debug\C샵 베이직스레드.exe
+C:\Users\user\source\repos\C샵 베이직스레드\C샵 베이직스레드\bin\Debug\C샵 베이직스레드.pdb
+C:\Users\user\source\repos\C샵 베이직스레드\C샵 베이직스레드\obj\Debug\C샵 베이직스레드.csprojAssemblyReference.cache
+C:\Users\user\source\repos\C샵 베이직스레드\C샵 베이직스레드\obj\Debug\C샵 베이직스레드.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C샵 베이직스레드\C샵 베이직스레드\obj\Debug\C샵 베이직스레드.exe
+C:\Users\user\source\repos\C샵 베이직스레드\C샵 베이직스레드\obj\Debug\C샵 베이직스레드.pdb

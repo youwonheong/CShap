@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C샵 텍스트 파일 처리\C샵 텍스트 파일 처리\bin\Debug\C샵 텍스트 파일 처리.exe.config
+C:\Users\user\source\repos\C샵 텍스트 파일 처리\C샵 텍스트 파일 처리\bin\Debug\C샵 텍스트 파일 처리.exe
+C:\Users\user\source\repos\C샵 텍스트 파일 처리\C샵 텍스트 파일 처리\bin\Debug\C샵 텍스트 파일 처리.pdb
+C:\Users\user\source\repos\C샵 텍스트 파일 처리\C샵 텍스트 파일 처리\obj\Debug\C샵 텍스트 파일 처리.csprojAssemblyReference.cache
+C:\Users\user\source\repos\C샵 텍스트 파일 처리\C샵 텍스트 파일 처리\obj\Debug\C샵 텍스트 파일 처리.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C샵 텍스트 파일 처리\C샵 텍스트 파일 처리\obj\Debug\C샵 텍스트 파일 처리.exe
+C:\Users\user\source\repos\C샵 텍스트 파일 처리\C샵 텍스트 파일 처리\obj\Debug\C샵 텍스트 파일 처리.pdb
