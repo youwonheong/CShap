@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\FromAndControl\FromAndControl\bin\Debug\FromAndControl.exe.config
+C:\Users\user\source\repos\FromAndControl\FromAndControl\bin\Debug\FromAndControl.exe
+C:\Users\user\source\repos\FromAndControl\FromAndControl\bin\Debug\FromAndControl.pdb
+C:\Users\user\source\repos\FromAndControl\FromAndControl\obj\Debug\FromAndControl.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FromAndControl\FromAndControl\obj\Debug\FromAndControl.exe
+C:\Users\user\source\repos\FromAndControl\FromAndControl\obj\Debug\FromAndControl.pdb

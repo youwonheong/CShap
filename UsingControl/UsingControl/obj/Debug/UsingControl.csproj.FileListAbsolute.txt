@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\UsingControl\UsingControl\bin\Debug\UsingControl.exe.config
+C:\Users\user\source\repos\UsingControl\UsingControl\bin\Debug\UsingControl.exe
+C:\Users\user\source\repos\UsingControl\UsingControl\bin\Debug\UsingControl.pdb
+C:\Users\user\source\repos\UsingControl\UsingControl\obj\Debug\UsingControl.csprojAssemblyReference.cache
+C:\Users\user\source\repos\UsingControl\UsingControl\obj\Debug\UsingControl.MainForm.resources
+C:\Users\user\source\repos\UsingControl\UsingControl\obj\Debug\UsingControl.Properties.Resources.resources
+C:\Users\user\source\repos\UsingControl\UsingControl\obj\Debug\UsingControl.csproj.GenerateResource.cache
+C:\Users\user\source\repos\UsingControl\UsingControl\obj\Debug\UsingControl.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UsingControl\UsingControl\obj\Debug\UsingControl.exe
+C:\Users\user\source\repos\UsingControl\UsingControl\obj\Debug\UsingControl.pdb
