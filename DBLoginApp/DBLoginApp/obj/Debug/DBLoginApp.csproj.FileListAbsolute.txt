@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\DBLoginApp\DBLoginApp\bin\Debug\LoginDB.mdf
+C:\Users\user\source\repos\DBLoginApp\DBLoginApp\bin\Debug\LoginDB_log.ldf
+C:\Users\user\source\repos\DBLoginApp\DBLoginApp\bin\Debug\DBLoginApp.exe.config
+C:\Users\user\source\repos\DBLoginApp\DBLoginApp\bin\Debug\DBLoginApp.exe
+C:\Users\user\source\repos\DBLoginApp\DBLoginApp\bin\Debug\DBLoginApp.pdb
+C:\Users\user\source\repos\DBLoginApp\DBLoginApp\obj\Debug\DBLoginApp.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DBLoginApp\DBLoginApp\obj\Debug\DBLoginApp.Form1.resources
+C:\Users\user\source\repos\DBLoginApp\DBLoginApp\obj\Debug\DBLoginApp.Form2.resources
+C:\Users\user\source\repos\DBLoginApp\DBLoginApp\obj\Debug\DBLoginApp.Properties.Resources.resources
+C:\Users\user\source\repos\DBLoginApp\DBLoginApp\obj\Debug\DBLoginApp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DBLoginApp\DBLoginApp\obj\Debug\DBLoginApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DBLoginApp\DBLoginApp\obj\Debug\DBLoginApp.exe
+C:\Users\user\source\repos\DBLoginApp\DBLoginApp\obj\Debug\DBLoginApp.pdb
